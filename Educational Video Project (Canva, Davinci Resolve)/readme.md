@@ -1,4 +1,4 @@
-# Educational Video Project – State Aid Basics
+# Educational Video Projects – State Aid Basics
 
 #### A short educational video series explaining the fundamentals of State aid: what is it, when the rules apply, and the key criteria involved.
 
