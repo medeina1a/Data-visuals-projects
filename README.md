@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 📊 Electricity Market Analysis (Power BI)
+### 📊 [Electricity Market Analysis (Power BI)](electricity-market-analysis/)
 Power BI project analysing electricity production, consumption and pricing trends.
 → Open folder: electricity-market-analysis
 
